@@ -154,11 +154,7 @@ Logs are stored at:
 
 
 
-(Add your video link here)
-
-
-
-\---
+https://drive.google.com/file/d/1EZk9IzBaYVmaIIQ65kxwXzSu2OAtMmEH/view?usp=sharing
 
 
 
